@@ -22,8 +22,7 @@ User A can use the consensus contract to initiate a request for establishing a c
 <img src="image/flow1.svg" alt="图片" />
 </div>
 
-Wormhole
-
+## Wormhole
 Wormhole, also known as Einstein-Rosen Bridge, is a narrow tunnel connecting two different time and space that may exist in the universe.  Instantaneous space transfer or time travel could be achieved by travel through wormhole. In ATM, "wormhole" refers to "cross-chain contracts" that can operate on multiple public chains.
 
 Users can connect their wallet addresses on different public chains through the "wormhole contract" provided by ATM. In the PageRank algorithm of ATM, the addresses of these two different public chains will be regarded as a node in the network. Through the merging of cross-chain addresses, ATM networks on different public chains will become an integrated whole.
