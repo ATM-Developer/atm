@@ -18,3 +18,10 @@ User A can use the consensus contract to initiate a request for establishing a c
   - 2.The amount invested by each party (it is decided by both parties and can be the same or different).
   - 3.The lock-up time of the contract (which is not restricted). During the contract lock-up period, the contract cannot be cancelled unilaterally, however the two parties can jointly initiate the cancellation of the contract (The cancellation time is 72 hours, which means it takes 72 hours before the assets in the contract can be returned to the accounts of both parties). After the contract expires, it can be unilaterally terminated; or the contract will stay valid until either party instruct to terminate it. 
 
+<div>
+<img src="image/flow1.jpg" width = "860" height = "300" alt="图片" align=center />
+</div>
+<div>
+<img src="image/flow2.jpg" width = "860" height = "300" alt="图片" align=center />
+</div>
+
