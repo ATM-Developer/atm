@@ -19,5 +19,15 @@ User A can use the consensus contract to initiate a request for establishing a c
   - 3.The lock-up time of the contract (which is not restricted). During the contract lock-up period, the contract cannot be cancelled unilaterally, however the two parties can jointly initiate the cancellation of the contract (The cancellation time is 72 hours, which means it takes 72 hours before the assets in the contract can be returned to the accounts of both parties). After the contract expires, it can be unilaterally terminated; or the contract will stay valid until either party instruct to terminate it. 
 
 <div>
-<img src="image/flow.svg" width = "860" height = "300" alt="图片" />
+<img src="image/flow1.svg" width = "860" height = "300" alt="图片" />
+</div>
+
+Wormhole
+
+Wormhole, also known as Einstein-Rosen Bridge, is a narrow tunnel connecting two different time and space that may exist in the universe.  Instantaneous space transfer or time travel could be achieved by travel through wormhole. In ATM, "wormhole" refers to "cross-chain contracts" that can operate on multiple public chains.
+
+Users can connect their wallet addresses on different public chains through the "wormhole contract" provided by ATM. In the PageRank algorithm of ATM, the addresses of these two different public chains will be regarded as a node in the network. Through the merging of cross-chain addresses, ATM networks on different public chains will become an integrated whole.
+
+<div>
+<img src="image/flow2.svg" width = "860" height = "300" alt="图片" />
 </div>
